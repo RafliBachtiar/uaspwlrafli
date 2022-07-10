@@ -1,0 +1,32 @@
+.logo{
+    padding: 5px;
+    padding-right: 20px;
+}
+.home{
+    background-image: linear-gradient(to top, #f43b47 0%, #453a94 100%);
+}
+
+span{
+    color: #FBCB0A;
+    font-weight: bold;
+}
+.market{
+  width: 50px;
+}
+
+.table > tbody > tr > *{
+  vertical-align: middle;
+  font-size: medium;
+  font-weight: 500;
+}
+.table > thead > tr > *{
+  vertical-align: middle;
+  font-size: large;
+  font-weight: bold;
+}
+.icon{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
